@@ -1,0 +1,17 @@
+html,body,header,#intro{
+    height: 100%;
+}
+
+#intro{
+    background: url(../img/programmer1.jpg);
+    background-size: cover;
+}
+
+body {
+    font-family: 'MuseoModerno', cursive;
+    font-weight: 100;
+}
+
+.navbar-collapse {
+    transition: 0.5s;
+}
